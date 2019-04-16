@@ -1,0 +1,6 @@
+starter\Application.class
+starter\MvcConfig.class
+starter\GreeterController.class
+starter\Greeter.class
+starter\Main.class
+starter\WebSecurityConfig.class
